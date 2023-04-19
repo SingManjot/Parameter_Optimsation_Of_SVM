@@ -6,6 +6,7 @@
 * Number of Instances: 10129
 * Number of Attributes: 16
 
+***
 ## Final Result Table
 
 | Sample  | Best Accuracy | Best Kernel | Best Nu | Best Epsilon |
@@ -21,14 +22,16 @@
 | 9 | 0.96 | Poly | 5.02 | 6.85 |
 | 10 | 0.89 | Linear | 9.11 | 2.20 |
 
+***
 ## Graph
 ![output_26_0](https://user-images.githubusercontent.com/73088810/233174400-50daa27a-779b-4cc2-a4a0-5ce4cb524b3e.png)
 
-
+***
 ## Conclusion
 * Sample 3 has the best accuracy of 0.98 having kernel = Linear, Nu = 5.74 and Epsilon = 2.52.
 
-### Done By
+***
+## Done By
 Name : Manjot Singh Kandhari
   
 Roll No. : 102017129
